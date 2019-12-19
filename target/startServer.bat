@@ -1,0 +1,1 @@
+java -jar simpleweb-0.0.1-SNAPSHOT-spring-boot.jar
