@@ -19,4 +19,5 @@ The following guides illustrate how to use some features concretely:
 Tutorials for learning Spring Boot:
 
 * [MKyong.com - Spring Boot Tutorials](https://www.mkyong.com/tutorials/spring-boot-tutorials/)
-* [how to do in Java - Spring Boot Tutorial](https://howtodoinjava.com/spring-boot-tutorials/) 
+* [how to do in Java - Spring Boot Tutorial](https://howtodoinjava.com/spring-boot-tutorials/)
+* [Spring Boot Tutorial IN28MINUTES](https://www.springboottutorial.com/) 
